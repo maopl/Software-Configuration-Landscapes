@@ -129,5 +129,5 @@ print(lon.number_of_nodes(), lon.number_of_edges())
 
 # Collected Performance Data
 
-Our collected performance data for over 86M configurations across 32 workloads of LLVM, Apache, and SQLite, is available at this link. 
+Our collected performance data for over 86M configurations across 32 workloads of LLVM, Apache, and SQLite, is available at http://tinyurl.com/4vukrtct. 
 
